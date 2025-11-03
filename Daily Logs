@@ -1,1 +1,39 @@
-Daily-Logs/Your_Name_SQL_Log.md
+---
+# 💾 Day 1 of 21 - 3/10/2025
+
+### 🚀 Daily Focus
+Introduction to data retrieval: Mastering the **SELECT** statement and controlling result size with **LIMIT**.
+
+### ✅ What I Achieved
+* Successfully retrieved specific columns and filtered the number of rows returned.
+* Completed a practice challenge requiring the selection of top records from a large table.
+* Time spent: **35 minutes** of focused query writing.
+
+### 🔑 Core Concepts Used Today
+* **SELECT:** Defines which columns (`fields`) to retrieve (e.g., `SELECT first_name, last_name`).
+* **FROM:** Specifies the source `table` for the data (e.g., `FROM customers`).
+* **LIMIT:** Restricts the number of `rows` (`records`) in the output (e.g., `LIMIT 10`).
+
+### 💻 Today's SQL Query
+
+1. Retrieve all columns from the `patients` table.
+
+
+2. Select only the `patient_id`, `name`, and `age` columns from the `patients` table.
+
+
+3. Display the first 10 records from the `services_weekly` table.
+
+
+
+
+
+DAILY CHALLENGE :
+### Daily Challenge:
+
+**Question:** List all unique hospital services available in the hospital.
+
+
+
+
+
