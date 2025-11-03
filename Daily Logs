@@ -17,26 +17,31 @@ Introduction to data retrieval: Mastering the **SELECT** statement and controlli
 ### 💻 Today's SQL Query
 
 1. Retrieve all columns from the `patients` table.
-
-
 2. Select only the `patient_id`, `name`, and `age` columns from the `patients` table.
-
-
-
 3. Display the first 10 records from the `services_weekly` table.
 
 
-
-
-
 DAILY CHALLENGE :
-### Daily Challenge:
 
 **Question:** List all unique hospital services available in the hospital.
-Answer : ICU
-         general_medicine
-         surgery
-         emergency
+**Answer ** : 
+
+ICU
+general_medicine
+surgery
+emergency
+
+
+
+
+
+
+<img width="973" height="481" alt="Image" src="https://github.com/user-attachments/assets/3c1fd93c-a6a6-4c4d-8776-c28496a0dc73" />
+<img width="1149" height="484" alt="Image" src="https://github.com/user-attachments/assets/87d8f5a2-9b92-4ab4-bdfa-057194a4ffb9" />
+<img width="958" height="474" alt="Image" src="https://github.com/user-attachments/assets/60fc33c8-2ac6-430a-8e91-25fa45a76ee3" />
+<img width="850" height="469" alt="Image" src="https://github.com/user-attachments/assets/5274ae9b-6b13-4efc-b53a-e0c952764b03" />
+
+
 
 
 
