@@ -22,6 +22,7 @@ Introduction to data retrieval: Mastering the **SELECT** statement and controlli
 2. Select only the `patient_id`, `name`, and `age` columns from the `patients` table.
 
 
+
 3. Display the first 10 records from the `services_weekly` table.
 
 
@@ -32,6 +33,10 @@ DAILY CHALLENGE :
 ### Daily Challenge:
 
 **Question:** List all unique hospital services available in the hospital.
+Answer : ICU
+         general_medicine
+         surgery
+         emergency
 
 
 
